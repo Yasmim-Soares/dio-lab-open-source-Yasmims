@@ -1,4 +1,4 @@
-# Yasmim-Soares
+# Yasmim Soares
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmim-soares-de-sousa-a74135254/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:yasmimsousa251@gamil.com)
